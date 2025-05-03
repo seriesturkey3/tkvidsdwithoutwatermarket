@@ -288,7 +288,7 @@ def main():
     st.markdown(
         """
         <div style='text-align: center'>
-            <p>Made with ❤️ by Your Name</p>
+            <p>Made with ❤️ by KingMaster2013</p>
             <p style='font-size: 0.8em'>⚠️ Use responsibly and in accordance with TikTok's terms of service.</p>
         </div>
         """,
