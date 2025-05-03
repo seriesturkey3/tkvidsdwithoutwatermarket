@@ -9,17 +9,6 @@ import concurrent.futures
 from PIL import Image
 import io
 
-hide_st_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            header {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_st_style, unsafe_allow_html=True)
-
-
-
 # Page configuration
 st.set_page_config(
     page_title="TikTok Video Downloader",
